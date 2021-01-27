@@ -1,0 +1,12 @@
+.wrapper {
+  top: 0;
+  display: grid;
+  grid-template-columns: 140px 1fr 120px;
+  align-items: center;
+  padding: 15px 40px;
+  background-color: #2e2e2e;
+}
+
+.logo {
+  width: 100%;
+}
