@@ -1,6 +1,8 @@
 # Tracking Manager App 
 Simple application that allows you to create a list of accounts to follow on twitter, add notes with articles or other interesting links, as well as ordinary notes.
 
+Preview: https://tracking-manager-app.netlify.app/
+
 ## Purpose
 The purpose of the application is to make the added data transparent and to allow the user to track the information they have added, as well as control all subscriptions.
 
